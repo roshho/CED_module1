@@ -1,11 +1,11 @@
 # Piet Mondrian's ESP32 Canvas
 <div style="display: flex;">
     <img src="media/piet-mondrian-video.gif" alt="mondrian" width="300" style="margin-right: 10px;"/>
-    <img src="media/cat-huh.gif" alt="cat-huh" width="300"/>
+    <img src="media/cat-huh.gif" alt="cat-huh" width="300" style="margin-right: 10px;"/> 
+    <img src="media/hanging-demo.gif" alt="demo" width="300" />
 </div>
-<img src="media/hanging-demo.gif" alt="demo" width="200"/>
 
-# Instructions to run
+## Instructions to run
 1) Using the [Arduino IDE]([https://www.arduino.cc/en/software](https://www.arduino.cc/en/software), open the respective ``.ino`` file
 2) Install [TTGO T-display driver]([https://github.com/Xinyuan-LilyGO/TTGO-T-Display](https://github.com/Xinyuan-LilyGO/TTGO-T-Display))
 3) Assign Arduino IDE port to the one that Lilygo TTGO is connected to
