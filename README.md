@@ -2,8 +2,8 @@
 [Link to blog Medium blog post](https://medium.com/@rh3210/piet-mondrians-esp32-canvas-f77085a8b9b3)
 Project seeks to recreate one of Piet Mondrian's composition piece from Guggenheim adapted to Lilygo's 135x240 resolution screen. Also included code to recreate the "huh" cat meme in their respective folders. Outcome should look like the following:
 
-![[piet-mondrian-video.gif|300]]![[cat_huh.gif|300]]
-![[WhatsApp Video 2024-10-04 at 00.03.14_d80d8e90.gif]]
+![[media\piet-mondrian-video.gif|300]]![[media\cat_huh.gif|300]]
+![[media\hanging-demo.gif]]
 
 # Instructions to run
 1) Using the [Arduino IDE]([https://www.arduino.cc/en/software](https://www.arduino.cc/en/software), open the respective ``.ino`` file
