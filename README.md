@@ -2,8 +2,10 @@
 [Link to blog Medium blog post](https://medium.com/@rh3210/piet-mondrians-esp32-canvas-f77085a8b9b3)
 Project seeks to recreate one of Piet Mondrian's composition piece from Guggenheim adapted to Lilygo's 135x240 resolution screen. Also included code to recreate the "huh" cat meme in their respective folders. Outcome should look like the following:
 
-<img src="media/piet-mondrian-video.gif" alt="mondrian" width="300"/>
-<img src="media/cat-huh.gif" alt="cat-huh" width="300"/>
+<div style="display: flex;">
+    <img src="media/piet-mondrian-video.gif" alt="mondrian" width="300" style="margin-right: 10px;"/>
+    <img src="media/cat-huh.gif" alt="cat-huh" width="300"/>
+</div>
 <img src="media/hanging-demo.gif" alt="demo" width="300"/>
 
 # Instructions to run
