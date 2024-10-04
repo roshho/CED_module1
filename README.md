@@ -1,9 +1,9 @@
 # Piet Mondrian's ESP32 Canvas
 <div style="display: flex;">
-    <img src="media/piet-mondrian-video.gif" alt="mondrian" width="300" style="margin-right: 10px;"/>
-    <img src="media/cat-huh.gif" alt="cat-huh" width="300"/>
+    <img src="media/piet-mondrian-video.gif" alt="mondrian" width="150" style="margin-right: 10px;"/>
+    <img src="media/cat-huh.gif" alt="cat-huh" width="150"/>
 </div>
-<img src="media/hanging-demo.gif" alt="demo" width="300"/>
+<img src="media/hanging-demo.gif" alt="demo" width="150"/>
 
 # Instructions to run
 1) Using the [Arduino IDE]([https://www.arduino.cc/en/software](https://www.arduino.cc/en/software), open the respective ``.ino`` file
