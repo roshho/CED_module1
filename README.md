@@ -1,4 +1,5 @@
 # Piet Mondrian's ESP32 Canvas
+About: Recreating Piet Mondrian's composition Guggenheim piece adapted to Lilygo's 135x240 resolution screen. Also included code to recreate the "huh" cat meme in their respective folders. 
 <div style="display: flex;">
     <img src="media/piet-mondrian-video.gif" alt="mondrian" width="300" style="margin-right: 10px;"/>
     <img src="media/cat-huh.gif" alt="cat-huh" width="300" style="margin-right: 10px;"/> 
